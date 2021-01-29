@@ -64,6 +64,6 @@ public class Chapter2Samples {
 
 	public static void main(String[] args) {
 		  printSecondsMain();
-      printTimeMain();
+		printTimeMain();
 	}
 }
