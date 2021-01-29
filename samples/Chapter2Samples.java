@@ -55,8 +55,7 @@ public class Chapter2Samples {
 			i += 1;
 		}
 		// s = 2:53:11:
-		// ^0 ^ length - 1
-		// range(-5, 6) [-5, -4, ...., 4, 5]
+		//     ^0     ^length - 1
 		s = s.substring(0, s.length() - 1);
 		System.out.println(s);
 		return s;
