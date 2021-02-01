@@ -1,3 +1,6 @@
+// Fancier Solution
+// See TimeConverter.java for simpler solution
+
 import java.util.Scanner;
 
 public class Chapter2Samples {
